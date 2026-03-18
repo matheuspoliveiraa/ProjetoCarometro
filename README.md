@@ -29,5 +29,6 @@ A aplicação permite registrar informações básicas dos alunos, adicionar fot
 
   * Alterar ou remover registros existentes.
 
-<img width="632" height="353" alt="image" src="https://github.com/user-attachments/assets/1cdba034-1013-46f3-b5a5-afec7768c541" />
+<img width="643" height="373" alt="image" src="https://github.com/user-attachments/assets/5f91fdf2-455d-4ea5-8dbc-c62f24e2620f" />
+
 
